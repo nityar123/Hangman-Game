@@ -7,7 +7,7 @@ A command-line implementation of the Hangman game written in C.
 - Randomly selects a word from a predefined list of 21 words.
 - Allows a maximum of 10 attempts to guess the word.
 - Informs the player of incorrect guesses and already guessed letters.
-- Displays a congratulatory message when players guesses word and reveals the word when player dosen't guess the words.
+- Displays a congratulatory message when players guess the word and reveals the word when player dosen't guess the word.
 
 ## Requirements to Play
 - A C compiler (GCC)
